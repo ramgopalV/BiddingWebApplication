@@ -1,0 +1,6 @@
+com/web/service/postItemService.class
+com/web/service/FetchSlotsService.class
+com/web/service/LoginServices.class
+com/web/service/RegisterService.class
+com/web/service/FetchProfileService.class
+com/web/service/FetchBidService.class
